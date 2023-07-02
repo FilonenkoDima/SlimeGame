@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd32ed57a5c22d47b1dd3dadad29c3d, type: 3}
+  m_Name: EntitiesSpawnerDataStorage
+  m_EditorClassIdentifier: 
+  <EntitiesSpawnData>k__BackingField:
+  - {fileID: 11400000, guid: b18ba1e455818ce46897247c45966c95, type: 2}
+  - {fileID: 11400000, guid: e9c509287e9c5c047ba6e252cb215484, type: 2}
+  - {fileID: 11400000, guid: 819cd929ab82fbd409843452687169a6, type: 2}
+  - {fileID: 11400000, guid: a2e6f4f9d63c8ac4ab8200e59bbd3b03, type: 2}
+  - {fileID: 11400000, guid: ebd429dda6ab7fb47903f42588c824a0, type: 2}
+  - {fileID: 11400000, guid: 4ea71a31740067342a43158fc4ced5e3, type: 2}
+  - {fileID: 11400000, guid: 5309b74ebef752348818c0225625a2c1, type: 2}
+  - {fileID: 11400000, guid: 8477574f1622f3d47afb47a8ae6f52ad, type: 2}
+  - {fileID: 11400000, guid: 34c9be2f02344654b9dcc887901a615a, type: 2}

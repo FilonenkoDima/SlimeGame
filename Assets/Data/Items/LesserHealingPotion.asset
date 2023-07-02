@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a00bb0bed64b8fa8424400f8dc6816, type: 3}
+  m_Name: LesserHealingPotion
+  m_EditorClassIdentifier: 
+  id: 3
+  baseName: Heal +25
+  baseDescription: Heal a little bit
+  baseSprite: {fileID: 21300000, guid: 9bd9f1e9df8e14bdea351dfb350ddc36, type: 3}
+  baseRarity: 4
+  <BaseMaxStack>k__BackingField: 1
+  <HealPoints>k__BackingField: 25

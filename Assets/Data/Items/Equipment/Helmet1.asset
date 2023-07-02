@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4034a0f48f9e2714787be73d5c44a22b, type: 3}
+  m_Name: Helmet1
+  m_EditorClassIdentifier: 
+  id: 31
+  baseName: Helmet 1
+  baseDescription: 
+  baseSprite: {fileID: 21300000, guid: df30e1897f6bffd4f83e606ff6a22ab1, type: 3}
+  baseRarity: 1
+  <BaseMaxStack>k__BackingField: 1
+  <EquipmentType>k__BackingField: 2
+  <ArmorAmount>k__BackingField: 4
